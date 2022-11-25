@@ -1,0 +1,15 @@
+{
+    "name": "เกมตีตุ่น",
+    "theme": "เกมตีตุ่น",
+    "version": "0.10.9",
+    "description": "เกมตีตุ่น เครดิตฟรี เกมตีตุ่น ทดลองเล่น ค่ายไหน",
+    "keywords": [
+        "เกมตีตุ่น เครดิตฟรี",
+        "เพิ่มตรงนี้"
+    ],
+    "repository": "https://github.com/nukung3107/project1",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
