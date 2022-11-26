@@ -9,7 +9,7 @@
         "เกมตีตุ่น ทดลองเล่น",
         "เกมตีตุ่น ค่ายไหน"
     ],
-    "repository": "https://github.com/nukung3107/project1",
+    "repository": "https://github.com/nukung3107/project1.git",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
